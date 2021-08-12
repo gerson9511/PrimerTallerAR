@@ -1,0 +1,22 @@
+# Starting compiling UnityEngine.TestRunner.dll
+D:\Disco D\Programas\Instaladores Software\6 SEM\PGM\Unity\2018.4.19f1\2020.3.15f2\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-2191d25aadde8a44a981f8e80a1b1889
+# Starting compiling UnityEngine.UI.dll
+D:\Disco D\Programas\Instaladores Software\6 SEM\PGM\Unity\2018.4.19f1\2020.3.15f2\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-1a4ae440a5ed883489a1cf428184e275
+# Starting compiling Unity.Timeline.dll
+D:\Disco D\Programas\Instaladores Software\6 SEM\PGM\Unity\2018.4.19f1\2020.3.15f2\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-c202275f6b66c9349ab87ff266c6f234
+# Starting compiling Unity.TextMeshPro.dll
+D:\Disco D\Programas\Instaladores Software\6 SEM\PGM\Unity\2018.4.19f1\2020.3.15f2\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-0d7400cf634d949439d1f22e4639bb6d
+# Starting compiling UnityEngine.SpatialTracking.dll
+D:\Disco D\Programas\Instaladores Software\6 SEM\PGM\Unity\2018.4.19f1\2020.3.15f2\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-41dbac2d1c399744b8a848f3b148e0ab
+# Starting compiling Unity.Subsystem.Registration.dll
+D:\Disco D\Programas\Instaladores Software\6 SEM\PGM\Unity\2018.4.19f1\2020.3.15f2\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-54179d08b20cb864e87e96b73b9601bc
+# Starting compiling Unity.XR.Management.dll
+D:\Disco D\Programas\Instaladores Software\6 SEM\PGM\Unity\2018.4.19f1\2020.3.15f2\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-0a0d5dfa8ef8f6847a0b5b52fa32bf45
+# Starting compiling Unity.XR.ARSubsystems.dll
+D:\Disco D\Programas\Instaladores Software\6 SEM\PGM\Unity\2018.4.19f1\2020.3.15f2\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-29d775a689f31164fa64e662d937aa54
+# Starting compiling UnityEngine.XR.LegacyInputHelpers.dll
+D:\Disco D\Programas\Instaladores Software\6 SEM\PGM\Unity\2018.4.19f1\2020.3.15f2\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-99a2452b2e84c9e47ac065448b32cdd1
+# Starting compiling Unity.XR.ARFoundation.dll
+D:\Disco D\Programas\Instaladores Software\6 SEM\PGM\Unity\2018.4.19f1\2020.3.15f2\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-503d06887ff652947b5f265e00096da7
+# Starting compiling Unity.XR.ARCore.dll
+D:\Disco D\Programas\Instaladores Software\6 SEM\PGM\Unity\2018.4.19f1\2020.3.15f2\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-931331c67a011e04bb3ef626a3764fe2
